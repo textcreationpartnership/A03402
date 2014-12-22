@@ -36,13 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Histoire Des Larrons,
-OR THE
-HISTORY
-OF
-THEEVES.Written in French, and
-Translated out of the
-Origina
+
 1. The Preface to the
 Reader.
 
